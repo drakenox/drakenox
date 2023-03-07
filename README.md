@@ -8,7 +8,7 @@
       <b>
         Hello There
       <br>
-        I'm Drake, a Legal Scholar, I like Bears and Strawberry, but I don't like Windows.
+        I'm Drake, a Legal Scholar, I like Anime and Music, but I don't like Windows.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
