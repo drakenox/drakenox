@@ -31,8 +31,8 @@
 <p align="center">
   <samp>
     [<a href="https://twitter.com/idrakenox">twitter</a>]
-    [<a href="https://instagram.com/drake.for.real">instagram</a>]
-    [<a href="mailto:dev@synvatto.co">e-mail</a>]
+    [<a href="https://instagram.com/whitepeoplehateme">instagram</a>]
+    [<a href="mailto:dev@drake.eu.org">e-mail</a>]
   </samp>
 </p>
 
