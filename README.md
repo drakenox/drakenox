@@ -8,7 +8,7 @@
       <b>
         Hello There
       <br>
-        I'm Meyza, a Legal Scholar, I like Anime and Music, but I don't like Windows.
+        I'm Meyza and I dont like Windows..
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
@@ -30,8 +30,8 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/idrakenox">twitter</a>]
-    [<a href="https://instagram.com/whitepeoplehateme">instagram</a>]
+    [<a href="https://twitter.com/">twitter</a>]
+    [<a href="https://instagram.com/">instagram</a>]
     [<a href="mailto:dev@drake.eu.org">e-mail</a>]
   </samp>
 </p>
@@ -42,7 +42,7 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=drakenox&label=Profile+Views&color=grey" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=meyzatech&label=Profile+Views&color=grey" alt="profile views" /> 
   </a>
   </samp>
 </p>
@@ -51,7 +51,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=drakenox&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
+      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=meyzatech&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
     </tr>
   </table>
 </div>
